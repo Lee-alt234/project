@@ -8,8 +8,6 @@ Our Dynamic Travel Itinerary Planner aims to revolutionize travel planning by pr
 
 Weather conditions
 
-Time constraints
-
 Transportation availability
 
 Local events
