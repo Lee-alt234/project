@@ -10,8 +10,6 @@ Weather conditions
 
 Time constraints
 
-Crowd levels
-
 Transportation availability
 
 Local events
@@ -26,9 +24,8 @@ Mood-Based Itinerary Generation: Uses AI to tailor recommendations based on user
 
 Local Event Awareness: Suggests nearby activities based on current events.
 
-Flexible Scheduling: Adjusts plans dynamically based on availability and unforeseen changes.
+Flexible Scheduling: Adjusts plans based on availability and weather changes.
 
-Optimized Route Planning: Considers travel time and crowd levels for a seamless experience.
 
 # Stack
 
